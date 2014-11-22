@@ -1,0 +1,7 @@
+hospital management system 
+functions :
+1) record of patients 
+2) record of doctors
+3) record of staffs
+4) reecord of medicine 
+5) record of machinery 
