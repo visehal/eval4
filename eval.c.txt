@@ -1,7 +1,11 @@
 hospital management system 
 functions :
 1) record of patients 
+  it consists of patients name,id,detail of desiese,appointment time
 2) record of doctors
+  it doc name ,id ,timing etc
+  
+  same for others
 3) record of staffs
 4) reecord of medicine 
 5) record of machinery 
